@@ -1,30 +1,30 @@
 # CathedralWalk — дворец / прогулка (Unity)
 
-Проект из чата Logic Neon Board: храм (GLB), неоновый мост, космический фон, музыка и голос у ворот.
+## Играть в браузере
 
-## Открыть
+**https://mahawairochana989.github.io/CathedralWalk/**
 
-1. Unity Hub → Open → эта папка
-2. Сцена `Assets/Scenes/CathedralWalk.unity`
-3. Play
+Ссылка `github.com/.../CathedralWalk` всегда открывает страницу файлов репозитория.  
+Чтобы сразу зайти во дворец, используйте ссылку **github.io** выше.
 
-## Управление
+## Исходники Unity
 
+1. Unity Hub → Open → эта папка  
+2. Сцена `Assets/Scenes/CathedralWalk.unity`  
+3. Play  
+
+### Управление
 - WASD — ходьба (старт снаружи на мосту)
 - Мышь — обзор
 - Shift — бег
 - E / ЛКМ — открыть/закрыть ворота
 - Esc — курсор
 
-## Что внутри
-
+### Что внутри
 - Храм из Blender (GLB/FBX), мост со стеклом и неоном
 - Космический фон с анимацией
 - Музыка Sarabanda (loop)
 - Голос при открытии ворот
 
-## Репозиторий
-
-https://github.com/mahawairochana989/CathedralWalk
-
-В git не входят `Library/`, `Temp/`, `Logs/`, `UserSettings/`. Крупные модели и медиа — через Git LFS.
+В git не входят `Library/`, `Temp/`, `Logs/`, `UserSettings/`.  
+Браузерная сборка лежит в `docs/` (GitHub Pages).

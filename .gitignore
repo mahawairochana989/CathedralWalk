@@ -17,3 +17,9 @@ MemoryCaptures/
 *.log
 Thumbs.db
 Desktop.ini
+
+# Keep GitHub Pages WebGL build under docs/
+!docs/
+!docs/**
+!docs/Build/
+!docs/Build/**
